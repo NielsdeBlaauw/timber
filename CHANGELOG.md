@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.3.3](https://github.com/timber/timber/compare/v2.3.2...v2.3.3) (2025-06-07)
+
+
+### Bug Fixes
+
+* Make sure Post(s) exists before we call setup() ([#3114](https://github.com/timber/timber/issues/3114)) ([54cf691](https://github.com/timber/timber/commit/54cf69191a4a1a50089da8f244972203a780ec68))
+* Update Helper::deprecated to use E_USER_DEPRECATED instead of the default E_USER_NOTICE ([#3113](https://github.com/timber/timber/issues/3113)) ([3cabe81](https://github.com/timber/timber/commit/3cabe81be179b943a709648a9bb1e5113bc4de2e))
+
+
+### Miscellaneous Chores
+
+* commit composer.lock file ([#3119](https://github.com/timber/timber/issues/3119)) ([e974e25](https://github.com/timber/timber/commit/e974e252851af262426319aca4991fb09afbe6b1))
+* **deps:** bump lycheeverse/lychee-action from 2.2.0 to 2.4.1 ([#3108](https://github.com/timber/timber/issues/3108)) ([edbd398](https://github.com/timber/timber/commit/edbd39809fb2d47390744cdff432b16b16950f78))
+* Upgrade dev dependencies ([#3118](https://github.com/timber/timber/issues/3118)) ([8293d1a](https://github.com/timber/timber/commit/8293d1aae15a1907543fe28f2db9419e73c6acee))
+
 ## [2.3.2](https://github.com/timber/timber/compare/v2.3.1...v2.3.2) (2025-05-13)
 
 
